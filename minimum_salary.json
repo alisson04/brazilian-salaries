@@ -1,0 +1,29 @@
+{
+  "source": "http://www.fetapergs.org.br/index.php/2015-07-27-16-46-22/tabelas-salario-minimo",
+  "salaries": {
+    "2000": { "value": "151,00", "readjustment_percentage": "11,0294" },
+    "2001": { "value": "180,00", "readjustment_percentage": "19,2052" },
+    "2002": { "value": "200,00", "readjustment_percentage": "11,1111" },
+    "2003": { "value": "240,00", "readjustment_percentage": "20,0000" },
+    "2004": { "value": "260,00", "readjustment_percentage": "8,3333" },
+    "2005": { "value": "300,00", "readjustment_percentage": "15,38" },
+    "2006": { "value": "350,00", "readjustment_percentage": "16,667" },
+    "2007": { "value": "380,00", "readjustment_percentage": "8,57" },
+    "2008": { "value": "415,00", "readjustment_percentage": "5,88" },
+    "2009": { "value": "465,00", "readjustment_percentage": "12" },
+    "2010": { "value": "510,00", "readjustment_percentage": "9,67" },
+    "2011": { "value": "545,00", "readjustment_percentage": "6.8" },
+    "2012": { "value": "622,00", "readjustment_percentage": "14,13" },
+    "2013": { "value": "678,00", "readjustment_percentage": "9,00" },
+    "2014": { "value": "724,00", "readjustment_percentage": "6,78" },
+    "2015": { "value": "788,00", "readjustment_percentage": "8,80" },
+    "2016": { "value": "880,00", "readjustment_percentage": "11,67" },
+    "2017": { "value": "937,00", "readjustment_percentage": "6,47" },
+    "2018": { "value": "954,00", "readjustment_percentage": "1,81" },
+    "2019": { "value": "998,00", "readjustment_percentage": "4,61" },
+    "2020": { "value": "1.045,00", "readjustment_percentage": "4,68" },
+    "2021": { "value": "1.100,00", "readjustment_percentage": "5,26" },
+    "2022": { "value": "1.212,00", "readjustment_percentage": "10,18" },
+    "2023": { "value": "1.320,00", "readjustment_percentage": "8,81" }
+  }
+}
